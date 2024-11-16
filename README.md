@@ -137,4 +137,4 @@ The assistant also includes a built-in dictionary, Chrome automation features, a
 
 ---
 
-Enjoy seamless interaction with your **UniversalSmartAssistant** today!
+Enjoy seamless interaction with your **AIVoiceAssistant** today!
