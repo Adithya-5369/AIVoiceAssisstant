@@ -1,12 +1,12 @@
-**AIVoiceAssistant**
+**VoiceAssistant**
 
-**A Multi-Functional Voice-Controlled AI Assistant in Python**
+**A Multi-Functional Voice-ControlledAssistant in Python**
 
 ---
 
 **Overview**
 
-AIVoiceAssistant is an all-in-one Python-based AI assistant designed to enhance productivity and convenience through voice commands. With capabilities ranging from opening applications to searching the web, sending emails, playing music, and managing tasks, this assistant offers seamless interaction via speech recognition and synthesis.
+VoiceAssistant is an all-in-one Python-based program designed to enhance productivity and convenience through voice commands. With capabilities ranging from opening applications to searching the web, sending emails, playing music, and managing tasks, this assistant offers seamless interaction via speech recognition and synthesis.
 
 The assistant also includes a built-in dictionary, Chrome automation features, and smart handling of application paths and configurations, all within a single Python script.
 
@@ -62,7 +62,7 @@ The assistant also includes a built-in dictionary, Chrome automation features, a
 3. **Run the Assistant:**
    Execute the script:
    ```bash
-   python AIVoiceAssistant.py
+   python VoiceAssistant.py
    ```
 
 4. **Give Commands:**
@@ -137,4 +137,4 @@ The assistant also includes a built-in dictionary, Chrome automation features, a
 
 ---
 
-Enjoy seamless interaction with your **AIVoiceAssistant** today!
+Enjoy seamless interaction with your **VoiceAssistant** today!
