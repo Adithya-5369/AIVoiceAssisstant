@@ -1,6 +1,6 @@
 **VoiceAssistant**
 
-**A Multi-Functional Voice-ControlledAssistant in Python**
+**A Multi-Functional Voice-Controlled Assistant in Python**
 
 ---
 
